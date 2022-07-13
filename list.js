@@ -52,8 +52,22 @@ let clipIDs = ["1-RB0iPxKZoZoWmPy2vzIGtHSXat8T4xp", //dance1.mp4
                "1kO2OvhkBHCEVq3l8WldD_RnWmi-wp-2W", //pc14
                "1WrpNxnCiZRXd1n8J52s6YogfaDX45eDe", //pc15
                "1_TwAnQvLP4rrgO7glfBp9_900ALt0zAm", //pc16
-               "", //
-               "", //
+               "1l4gi2-3CHe2mfCuzYQqk2v1u7TISweVg", //2 Stars Five Guys
+               "1yyRtUj-2jZRPE_uNFgy6b5jBKLOGwFyE", //2 year ago aegyo
+               "1NCjEUz_kkwIuYZ-lLI1uqUP2ycPh3F1_", //12ob
+               "1nqSL1FU8cLwavvlFgGw2ZmFkRp2t-Rq7", //a strong smell enters boss's nose
+               "1Y0bc2ZWgzml_UmyGaUEBFEO07vsH4VOd", //another alarm
+               "1kPD63Jm0sEKviaBSW51S_eHKSBD1txYQ", //felix oppar
+               "1uZx19l4uqWXkyeab2drf3UbicUpRk3Gp", //finding bug using toonation
+               "1Qch0VqAwFlTBde12n_WS4cncrCSJ2O_k", //hajima
+               "1f22fz_HzakKaWhZL5wf6fPVE_0REybVH", //Jinri girl cam
+               "10X5p4Cg0SgcQ41oB0CWAXqI8C264xEnb", //life is a disaster
+               "1BOLxr72oHw5DG6G30QowmQdkLaCRxEss", //Meme Photoshoot! !content
+               "1qmL02HAZ1lqGfdpfQflO2d-puGiW_9Bu", //mirrored
+               "1AauTuTNWlFzdMWTJxdtR7FysY7Ue2QHk", //pls put on your blinkers
+               "1gGWfthMS3V7ltM0OPk0iFbtqespmHiA-", //splits
+               "1q84eD7EgdIrPx_Job-wfOgrWkpQVBU07", //what is julia
+               "14dr2aI2yzNbqAISX6LEdUY2WycJal8g8", //Why She Does Programming Streams
                "", //
                "", //
                "", //
